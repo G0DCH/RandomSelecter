@@ -1,0 +1,6 @@
+#ignore .vs
+.vs
+
+#ignore Release and Debug
+Release
+Debug
