@@ -3,6 +3,7 @@ Select random file which exist in directory which RandomSelecter.exe exist
 
 # Why use this program?
 When you hard to make a decision, this program can choose random picture, video etc.
+This is useful in download folder of hitomi
 
 # How to use?
 1. Open RandomSelecter.sln
